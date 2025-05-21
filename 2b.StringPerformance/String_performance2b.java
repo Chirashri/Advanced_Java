@@ -1,6 +1,9 @@
+/*Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for
+appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
+your answer which one is better.*/
 package github1;
 
-public class pgrm2b1 {
+public class String_performance2b1 {
     public static void main(String[] args) {
         int iterations = 10000;
         String appendText = "AIET";
