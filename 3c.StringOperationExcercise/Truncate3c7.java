@@ -1,8 +1,10 @@
+/*Write a Java Program for  Shortening a string to a specified length and adds an ellipsis using user 
+defined function truncate()*/
 package github1;
 
 import java.util.Scanner;
 
-public class pgrm3c7 {
+public class Truncate3c7 {
 
     // User-defined function to truncate string and add ellipsis if needed
     public static String truncate(String input, int maxLength) {
