@@ -6,7 +6,7 @@ import java.awt.Color;
 import java.awt.Font;
 //A simple Swing application.
 import javax.swing.*;
-class pgrm4a {
+class Display_Message4a {
 	pgrm4a () {
 //Create a new JFrame container.
 		JFrame jfrm = new JFrame("A Simple Swing Application");
