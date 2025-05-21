@@ -1,8 +1,10 @@
+/*Write a Java program to insert the specified element at the end of a linked list.( using
+l_listobj.offerLast("Pink"))*/
 package github1;
 
 import java.util.LinkedList;
 
-public class pgrm1c3{
+public class insert_at_end_1c3{
     public static void main(String[] args) {
         // Create a LinkedList and add some initial elements
         LinkedList<String> colors = new LinkedList<>();
