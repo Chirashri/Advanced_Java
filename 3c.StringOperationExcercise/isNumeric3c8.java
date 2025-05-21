@@ -1,8 +1,10 @@
+/* Write a Java Program for  Verifying if a string contains only numeric characters using user defined 
+function  isNumeric()*/
 package github1;
 
 import java.util.Scanner;
 
-public class pgrm3c8{
+public class isNumeric3c8{
 
     // User-defined function to check if string contains only digits
     public static boolean isNumeric(String input) {
