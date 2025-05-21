@@ -5,9 +5,9 @@ display the concerned color whenever the specific tab is selected in the Pan.
 ;*/
 import java.awt.Color;
 import javax.swing.*;
-public class pgrm5b {
+public class TabbedPane_RGB5b {
 	JFrame f;
-	pgrm5b(){
+	TabbedPane_RGB5b (){
 		f=new JFrame("colors panel");
 		JPanel p1=new JPanel();//to create panel of colors
 		JPanel p2=new JPanel();
@@ -27,6 +27,6 @@ public class pgrm5b {
 		f.setVisible(true);
 	}
 public static void main(String[] args) {
-	new pgrm5b();
+	new TabbedPane_RGB5b ();
 	}
 }
