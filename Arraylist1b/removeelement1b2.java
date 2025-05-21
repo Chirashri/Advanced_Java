@@ -1,8 +1,10 @@
+/* Write a java program for getting different colors through ArrayList interface and remove the
+2nd element and color "Blue" from the ArrayList*/
 package github1;
 
 import java.util.ArrayList;
 
-public class pgrm1b2 {
+public class remove_element1b2 {
 	 public static void main(String[] args) {
 	        // Create an ArrayList to store color names
 	        ArrayList<String> colors = new ArrayList<>();
