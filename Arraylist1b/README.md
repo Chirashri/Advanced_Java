@@ -6,7 +6,7 @@
 
 1b4 sort:(https://github.com/Chirashri/Advanced_Java/blob/main/Arraylist1b/1b4.png)
 
-1b5 sublist:()
+1b5 sublist:(https://github.com/Chirashri/Advanced_Java/blob/main/Arraylist1b/1b5.png)
 
 1b6 remove_by_index:()
 
