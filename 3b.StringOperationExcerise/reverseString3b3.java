@@ -1,8 +1,10 @@
+/*Write a Java Program for Reversing the characters in a string using user defined function
+reverseString().*/
 package github1;
 
 import java.util.Scanner;
 
-public class pgrm3b3 {
+public class reverseString3b3 {
 
     // User-defined function to reverse a string
     public static String reverseString(String input) {
