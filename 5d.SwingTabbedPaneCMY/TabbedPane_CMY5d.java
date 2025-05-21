@@ -5,11 +5,11 @@ package github1;
 import javax.swing.*; 
 import java.awt.*; 
  
-public class pgrm5d { 
+public class TabbedPane_CMY5d { 
  
     JFrame frame; 
  
-   pgrm5d() { 
+   TabbedPane_CMY5d() { 
         frame = new JFrame("Color Tabbed Pane Example"); 
  
         // Create Panels for each color 
@@ -37,6 +37,6 @@ frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 frame.setVisible(true); 
 } 
 public static void main(String[] args) { 
-new pgrm5d(); 
+new TabbedPane_CMY5d(); 
 } 
 }
