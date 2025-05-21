@@ -1,9 +1,11 @@
+/*Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
+Collections.swap(l_list, 0, 2))*/
 package github1;
 
 import java.util.LinkedList;
 import java.util.Collections;
 
-public class pgrm1c5 {
+public class swap1c5 {
     public static void main(String[] args) {
         // Create and populate the LinkedList
         LinkedList<String> colors = new LinkedList<>();
