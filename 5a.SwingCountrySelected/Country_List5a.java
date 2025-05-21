@@ -11,9 +11,9 @@ import javax.swing.JList;
 import javax.swing.JScrollPane;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
-public class pgrm5a extends JFrame {
+public class Country_List5a extends JFrame {
 private JList<String> countryList;
-public pgrm5a() {
+public Country_List5a() {
 //create the model and add elements
 DefaultListModel<String> listModel = new DefaultListModel<>();
 listModel.addElement("USA");
@@ -48,6 +48,6 @@ this.setVisible(true);
 
 }
 public static void main(String[] args) {
-new pgrm5a();
+new Country_List5a();
 }
 }
