@@ -9,13 +9,13 @@ import javax.swing.event.ListSelectionListener;
 import java.awt.*; 
 import java.util.HashMap; 
  
-public class pgrm5c { 
+public class CountryCapital_List5c { 
  
     JFrame frame; 
     JList<String> countryList; 
     HashMap<String, String> capitalMap; 
  
-    pgrm5c() { 
+    CountryCapital_List5c() { 
         // Create JFrame 
         frame = new JFrame("Country and Capital Finder"); 
         frame.setSize(400, 300); 
@@ -72,6 +72,6 @@ public class pgrm5c {
     } 
  
     public static void main(String[] args) { 
-        new pgrm5c(); 
+        new CountryCapital_List5c(); 
     } 
 }
