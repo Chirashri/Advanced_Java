@@ -1,8 +1,10 @@
+/*Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) )*/
 package github1;
 
 import java.util.LinkedList;
 
-public class pgrm1c4 {
+public class displayPositions1c4 {
     public static void main(String[] args) {
         // Create and populate the LinkedList
         LinkedList<String> animals = new LinkedList<>();
