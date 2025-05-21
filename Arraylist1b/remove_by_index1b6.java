@@ -1,7 +1,9 @@
+/*Write a java program for getting different colors through ArrayList interface and delete nth
+element from the ArrayList object by using remove by index*/
 package github1;
 import java.util.ArrayList;
 import java.util.Scanner;
-public class pgrm1b6 {
+public class remove_by_index1b6 {
 
 
 	
