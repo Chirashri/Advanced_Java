@@ -1,8 +1,10 @@
+/*Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
+function removeWhitespace()*/
 package github1;
 
 import java.util.Scanner;
 
-public class pgrm3b5 {
+public class removeWhitespace3b5 {
 
     // User-defined function to remove all whitespace characters
     public static String removeWhitespace(String input) {
