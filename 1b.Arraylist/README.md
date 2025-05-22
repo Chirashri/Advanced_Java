@@ -8,5 +8,5 @@ Arraylist1b4 sort:(https://github.com/Chirashri/Chirashri_Advanced_Java/blob/mai
 
 Arraylist1b5 sublist:(https://github.com/Chirashri/Chirashri_Advanced_Java/blob/main/1b.Arraylist/1b5.png)
 
-Arraylist1b6 remove_by_index:(https://github.com/Chirashri/Advanced_Java/blob/main/Arraylist1b/1b6.png)
+Arraylist1b6 remove_by_index:(https://github.com/Chirashri/Chirashri_Advanced_Java/blob/main/1b.Arraylist/1b6.png)
 
