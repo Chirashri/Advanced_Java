@@ -1,6 +1,6 @@
 1b Arraylist
 
-Arraylist1b1 colorsearch:(https://github.com/Chirashri/Advanced_Java/blob/main/Arraylist1b/1b1.png)
+Arraylist1b1 colorsearch:(https://github.com/Chirashri/Chirashri_Advanced_Java/blob/main/1b.Arraylist/1b1.png)
 
 Arraylist1b2 removeelement:(https://github.com/Chirashri/Advanced_Java/blob/main/Arraylist1b/1b2.png)
 
