@@ -7,7 +7,7 @@ import java.awt.Font;
 //A simple Swing application.
 import javax.swing.*;
 class Display_Message4a {
-	pgrm4a () {
+	Display_Message4a () {
 //Create a new JFrame container.
 		JFrame jfrm = new JFrame("A Simple Swing Application");
 //jfrm.setFont("Serif",Font.BOLD,18);
@@ -30,7 +30,7 @@ public static void main(String args[]) {
 //Create the frame on the event dispatching thread.
 	SwingUtilities.invokeLater(new Runnable() {
 		public void run() {
-				new pgrm4a();
+				new Display_Message4a();
 				}
 		}
 			);
