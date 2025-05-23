@@ -1,7 +1,5 @@
 # 🚀 Advanced java programming
 
-> A curated collection of Java mini-projects covering core concepts, Swing GUI, JDBC, and Servlets.
-
 ---
 
 ## 📂 Contents
