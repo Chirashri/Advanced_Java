@@ -2,32 +2,40 @@
 
 ---
 
-## 📂 Contents
-
 ### 🧱 Collections Framework
-- **ArrayList & LinkedList**: Add, update, remove, search, iterate, sort, sublist, clear  
-- **ArrayList Programs**: Color search, remove elements, sort, get sublist, delete by index  
-- **LinkedList Programs**: Iterate forward/reverse, insert, swap, display with positions  
+- **ArrayList & LinkedList**: Perform operations like adding, updating, deleting, searching, sorting, sublisting, and clearing elements  
+- **ArrayList Use Cases**: Find colors, remove items by index, sort elements, get sublists  
+- **LinkedList Use Cases**: Iterate in both directions, insert items, swap values, show with positions  
+
+---
 
 ### 🔤 String Handling
-- **String Operations**: Create, compare, modify, format, substring, validate email  
-- **Performance Check**: StringBuffer vs StringBuilder  
-- **String Exercises**: Null checks, count substrings, reverse, check palindrome,  
-  remove spaces, capitalize, truncate, check numbers, generate random strings, count words  
+- **Common String Tasks**: Create, compare, modify, slice, format, and validate email addresses  
+- **Performance Testing**: Compare `StringBuffer` and `StringBuilder` efficiency  
+- **String Practice Problems**: Handle null values, count substrings, reverse text, detect palindromes,  
+  trim spaces, capitalize text, truncate strings, verify numerics, generate random values, count words  
 
-### 🖥️ GUI with Swing
-- **Basic UI**: Display messages with custom font styles  
-- **Event Handling**: Button clicks to show messages/images  
-- **Swing Components**: Use JList and JTabbedPane to display and manage selected items  
+---
 
-### 🌐 Web Development (Servlets & JSP)
-- **Servlets**: Factorial calculator, prime number checker, cookies, session management with expiry  
-- **JSP**: Manage cookies and sessions, show cookies dynamically on page  
+### 🖥️ Desktop GUI with Swing
+- **Simple UI**: Show messages using customized fonts  
+- **Interactive Elements**: React to button clicks with dynamic text or images  
+- **GUI Components**: Work with `JList` and `JTabbedPane` to select and display information  
 
-### 💾 JDBC with MySQL
-- **Database**: CRUD operations on Coffee and Employee tables  
-- **Integration**: HTML + JSP for insert, update, delete, and report generation  
-- **Tools**: Use XAMPP for MySQL and Tomcat for running Servlets and JSP 
+---
+
+### 🌐 Web Applications (Servlets & JSP)
+- **Servlet Features**: Calculate factorials, check primes, create and delete cookies, manage sessions with timeout  
+- **JSP Pages**: Handle session and cookie data, dynamically list cookie content  
+
+> 🧠 Run Servlets and JSPs using **Apache Tomcat Server**
+
+---
+
+### 💾 Database Integration (JDBC + MySQL)
+- **Data Handling**: Connect Java with MySQL to create, read, update, and delete records  
+- **Web-Based DB Access**: Use HTML and JSP for user inputs and database output  
+- **Tools Required**: Run MySQL via **XAMPP** and deploy applications using **Tomcat**
 ---
 
 ## 🛠️. JDBC + MySQL Setup
