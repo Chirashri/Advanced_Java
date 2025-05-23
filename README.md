@@ -4,38 +4,30 @@
 
 ## 📂 Contents
 
-###  🧱 Core Java Concepts
-- `1a.ListInterface`
-- `1b.ArrayList`
-- `1c.LinkedList`
+### 🧱 Collections Framework
+- ArrayList & LinkedList: Add, update, remove, search, iterate, sort, sublist, clear
+- ArrayList Programs: Color search, remove elements, sort, get sublist, delete by index
+- LinkedList Programs: Iterate forward/reverse, insert, swap, display with positions
 
-###  🔤 String Operations & Performance
-- `2a.StringOperationDemo`
-- `2b.StringPerformance`
-- `3a.StringOperation`
-- `3b.StringOperationExercise`
-- `3c.StringOperationExercise`
+### 🔤 String Handling
+- String Operations: Create, compare, modify, format, substring, validate email
+- Performance Check: StringBuffer vs StringBuilder
+- String Exercises: Null checks, count substrings, reverse, check palindrome, 
+  remove spaces, capitalize, truncate, check numbers, generate random strings, count words
 
-###  🖥️ Java Swing (GUI Projects)
-- `4a.SwingHello`
-- `4b.SwingCountryButton`
-- `4c.SwingImage_Button`
-- `5a.SwingCountrySelected`
-- `5b.SwingTabbedPaneRGB`
-- `5c.SwingCountryCapital_List`
-- `5d.SwingTabbedPaneCMY`
+### 🖥️ GUI with Swing
+- Basic UI: Display messages with custom font styles
+- Event Handling: Button clicks to show messages/images
+- Swing Components: Use JList and JTabbedPane to display and manage selected items
 
-###  🌐 Java Servlets & Web Apps
-- `6a.FactorialCalculatorDemo`
-- `6b.CookieServlet`
-- `6c.ServletPrimeNumberCheck`
-- `7a.SessionManagement`
-- `7b.CookieManagement`
+### 🌐 Web Development (Servlets & JSP)
+- Servlets: Factorial calculator, prime number checker, cookies, session management with expiry
+- JSP: Manage cookies and sessions, show cookies dynamically on page
 
-###  💾 JDBC with MySql (Database Projects)
-- `8a/8b.JDBCCoffee` & `9a/9b.JDBCCoffee`
-- `8b/8d.JDBCEmployee` & `9c/9d.JDBCEmployee`
-
+### 💾 JDBC with MySQL
+- Database: CRUD operations on Coffee and Employee tables
+- Integration: HTML + JSP for insert, update, delete, and report generation
+- Tools: Use XAMPP for MySQL and Tomcat for running Servlets and JSP
 ---
 
 ## 🛠️. JDBC + MySQL Setup
