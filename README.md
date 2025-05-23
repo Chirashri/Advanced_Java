@@ -38,7 +38,7 @@
 
 ---
 
-#🛠️. JDBC + MySQL Setup
+## 🛠️. JDBC + MySQL Setup
 
 #### ✅ Step 1: Install XAMPP
 - Download and install [XAMPP](https://www.apachefriends.org/index.html).
