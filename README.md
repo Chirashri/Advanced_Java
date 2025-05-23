@@ -50,7 +50,7 @@
 - Start **Apache** and **MySQL** modules via the XAMPP Control Panel.
 
 #### ✅ Step 2: Database Setup
-- Open [phpMyAdmin](http://localhost/phpmyadmin) in your browser.
+- Open [phpMyAdmin](https://www.phpmyadmin.net/) in your browser.
 - Import the provided SQL dump file (`Employee.sql` or `test.sql`) from the  folder to create your database and tables.
 
 #### ✅ Step 3: MySQL Connector/J
