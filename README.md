@@ -14,7 +14,7 @@
 
 ---
 
-### 🔤 String Handling
+### 🔤 String Processing in Java
 - **Common String Tasks**: Create, compare, modify, slice, format, and validate email addresses  
 - **Performance Testing**: Compare `StringBuffer` and `StringBuilder` efficiency  
 - **String Practice Problems**: Handle null values, count substrings, reverse text, detect palindromes,  
