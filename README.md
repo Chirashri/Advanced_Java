@@ -5,29 +5,29 @@
 ## 📂 Contents
 
 ### 🧱 Collections Framework
-- ArrayList & LinkedList: Add, update, remove, search, iterate, sort, sublist, clear
-- ArrayList Programs: Color search, remove elements, sort, get sublist, delete by index
-- LinkedList Programs: Iterate forward/reverse, insert, swap, display with positions
+- **ArrayList & LinkedList**: Add, update, remove, search, iterate, sort, sublist, clear  
+- **ArrayList Programs**: Color search, remove elements, sort, get sublist, delete by index  
+- **LinkedList Programs**: Iterate forward/reverse, insert, swap, display with positions  
 
 ### 🔤 String Handling
-- String Operations: Create, compare, modify, format, substring, validate email
-- Performance Check: StringBuffer vs StringBuilder
-- String Exercises: Null checks, count substrings, reverse, check palindrome, 
-  remove spaces, capitalize, truncate, check numbers, generate random strings, count words
+- **String Operations**: Create, compare, modify, format, substring, validate email  
+- **Performance Check**: StringBuffer vs StringBuilder  
+- **String Exercises**: Null checks, count substrings, reverse, check palindrome,  
+  remove spaces, capitalize, truncate, check numbers, generate random strings, count words  
 
 ### 🖥️ GUI with Swing
-- Basic UI: Display messages with custom font styles
-- Event Handling: Button clicks to show messages/images
-- Swing Components: Use JList and JTabbedPane to display and manage selected items
+- **Basic UI**: Display messages with custom font styles  
+- **Event Handling**: Button clicks to show messages/images  
+- **Swing Components**: Use JList and JTabbedPane to display and manage selected items  
 
 ### 🌐 Web Development (Servlets & JSP)
-- Servlets: Factorial calculator, prime number checker, cookies, session management with expiry
-- JSP: Manage cookies and sessions, show cookies dynamically on page
+- **Servlets**: Factorial calculator, prime number checker, cookies, session management with expiry  
+- **JSP**: Manage cookies and sessions, show cookies dynamically on page  
 
 ### 💾 JDBC with MySQL
-- Database: CRUD operations on Coffee and Employee tables
-- Integration: HTML + JSP for insert, update, delete, and report generation
-- Tools: Use XAMPP for MySQL and Tomcat for running Servlets and JSP
+- **Database**: CRUD operations on Coffee and Employee tables  
+- **Integration**: HTML + JSP for insert, update, delete, and report generation  
+- **Tools**: Use XAMPP for MySQL and Tomcat for running Servlets and JSP 
 ---
 
 ## 🛠️. JDBC + MySQL Setup
