@@ -6,19 +6,19 @@
 
 ## 📂 Contents
 
-### 🔹 🧱 Core Java Concepts
+###  🧱 Core Java Concepts
 - `1a.ListInterface`
 - `1b.ArrayList`
 - `1c.LinkedList`
 
-### 🔹 🔤 String Operations & Performance
+###  🔤 String Operations & Performance
 - `2a.StringOperationDemo`
 - `2b.StringPerformance`
 - `3a.StringOperation`
 - `3b.StringOperationExercise`
 - `3c.StringOperationExercise`
 
-### 🔹 🖥️ Java Swing (GUI Projects)
+###  🖥️ Java Swing (GUI Projects)
 - `4a.SwingHello`
 - `4b.SwingCountryButton`
 - `4c.SwingImage_Button`
@@ -27,20 +27,20 @@
 - `5c.SwingCountryCapital_List`
 - `5d.SwingTabbedPaneCMY`
 
-### 🔹 🌐 Java Servlets & Web Apps
+###  🌐 Java Servlets & Web Apps
 - `6a.FactorialCalculatorDemo`
 - `6b.CookieServlet`
 - `6c.ServletPrimeNumberCheck`
 - `7a.SessionManagement`
 - `7b.CookieManagement`
 
-### 🔹 💾 JDBC with MySql (Database Projects)
+###  💾 JDBC with MySql (Database Projects)
 - `8a/8b.JDBCCoffee` & `9a/9b.JDBCCoffee`
 - `8b/8d.JDBCEmployee` & `9c/9d.JDBCEmployee`
 
 ---
 
-🛠️. JDBC + MySQL Setup
+#🛠️. JDBC + MySQL Setup
 
 #### ✅ Step 1: Install XAMPP
 - Download and install [XAMPP](https://www.apachefriends.org/index.html).
