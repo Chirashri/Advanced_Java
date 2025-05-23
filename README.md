@@ -2,6 +2,11 @@
 
 ---
 
+📚 Project Overview
+
+
+
+
 ### 🧱 Collections Framework
 - **ArrayList & LinkedList**: Perform operations like adding, updating, deleting, searching, sorting, sublisting, and clearing elements  
 - **ArrayList Use Cases**: Find colors, remove items by index, sort elements, get sublists  
